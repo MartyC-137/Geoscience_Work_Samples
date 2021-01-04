@@ -2,7 +2,6 @@
 #to elevations above sea level
 #Developed by Martin Palkovic, Geologist at Colorado Geological Survey
 #Colorado School of Mines
-#April 2020
 
 #Step 1: Import system modules
 #-----------------------------
