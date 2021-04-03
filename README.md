@@ -26,3 +26,7 @@ https://www.sciencebase.gov/catalog/item/5ee13de982ce3bd58d7be7e7
 
 Data for Main_Kaggle_Wildfires.ipynb:
 https://www.kaggle.com/rtatman/188-million-us-wildfires
+
+Housing Prices article on Towards Data Science - https://towardsdatascience.com/building-a-data-dashboard-for-housing-prices-using-plotly-dash-in-python-7aca9c49592c
+
+Dashboard to accompany article - http://mp-houseprices.herokuapp.com/
