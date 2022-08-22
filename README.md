@@ -1,5 +1,5 @@
 # Work_Samples
-A repository containing examples of Martin Palkovic's code
+A repository containing examples of work from my geology days
 
 <b>DBSCAN_Analysis.ipynb</b> - Using machine learning to explore residential development pressure on groundwater in La Plata County, Colorado
 
